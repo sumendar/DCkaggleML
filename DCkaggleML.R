@@ -10,4 +10,6 @@ test <- read.csv(test_url)
 # Print train and test to the console
 train
 test
+train <- read.csv(train_url)
+train 
 
